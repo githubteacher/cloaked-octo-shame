@@ -1,6 +1,6 @@
 # Git Stash Tip
 
-_stash_ away all your changes, that is the dirty stage of your working directory and beeing able to apply it later.
+_stash_ away all your changes, that is the dirty stage of your working directory and being able to apply it later.
 
 Suppose you have some dirty state like in the following example.
 
